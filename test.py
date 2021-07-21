@@ -2,7 +2,7 @@ from text_tool import TextTool
 
 txt = TextTool("I am learning class and object", "ob")
 print(txt.str_concat("in python"))
-# print(txt.str_length())
+print(txt.str_length())
 # print(txt.convert_lowercase())
 # print(txt.convert_lowercase())
 # print(txt.convert_titlecase())
