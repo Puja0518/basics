@@ -1,0 +1,15 @@
+from text_tool import TextTool
+
+txt = TextTool("I am learning class and object", "ob")
+print(txt.str_concat("in python"))
+# print(txt.str_length())
+# print(txt.convert_lowercase())
+# print(txt.convert_lowercase())
+# print(txt.convert_titlecase())
+# print(txt.str_strip())
+# print(txt.str_rstrip())
+# print(txt.str_lstrip())
+# print(txt.str_startwith())
+# txt.find_target_str()
+# txt.find_word()
+# print(txt.find_vowel_word())
